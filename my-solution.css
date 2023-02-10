@@ -89,6 +89,21 @@
     }
 }
 /* Esercizio 11 */
-
+.ex-11-icon:hover {
+    animation: spinnow 1s linear;
+}
+@keyframes spinnow {
+    0% {
+        transform: rotate(0);
+    }
+    80% {
+        transform: rotate(270deg);
+    }
+    100% {
+        transform: rotate(0);
+    }
+}
 /* Esercizio 12 */
+
+
 /* Esercizio 13 */
