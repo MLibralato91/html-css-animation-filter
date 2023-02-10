@@ -56,6 +56,15 @@
     border-radius: 40%;
 }
 /* Esercizio 8 */
+.ex-8-img{
+    transition: 3s;
+}
+
+.ex-8-img:hover {
+    filter: blur(4px);
+    transform: scale(0.5);
+    border-radius: 40%;
+}
 /* Esercizio 9 */
 /* Esercizio 10 */
 /* Esercizio 11 */
